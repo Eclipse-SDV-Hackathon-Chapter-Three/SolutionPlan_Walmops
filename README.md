@@ -9,7 +9,7 @@ Walmpos (it's a long story)
 | Name | GitHub Handle | Role(s) |
 |-------|---------------|---------|
 | Daniele      |  daniSera             |         |
-| Nadja      | mishenk0              |         |
+| Nadezhda      | mishchenk0              |         |
 | Vladimir      | mircov693              |         |
 | Alex | alexherg | |
 | Eike | eikelang-vm | |
