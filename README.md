@@ -1,4 +1,4 @@
-# SolutionPlan_Template
+# SolutionPlan Walmpos
 
 # 1. Your Team at a Glance
 
@@ -12,7 +12,7 @@ Walmpos (it's a long story)
 | Nadja      | mishenk0              |         |
 | Vladimir      | mircov693              |         |
 | Alex | alexherg | |
-| Eike | | |
+| Eike | eikelang-vm | |
 
 ## Challenge  
 SDV Lab
