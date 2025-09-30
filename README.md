@@ -3,42 +3,37 @@
 # 1. Your Team at a Glance
 
 ## Team Name / Tagline  
-*Brief catchy tagline or team name*
-
-*create a sheet of paper with your team name on the desk.*
-
-*Feel free to include a picture representing your team*
+Walmpos (it's a long story)
 
 ## Team Members  
 | Name | GitHub Handle | Role(s) |
 |-------|---------------|---------|
-|       |               |         |
-|       |               |         |
-|       |               |         |
+| Daniele      |  daniSera             |         |
+| Nadja      | mishenk0              |         |
+| Vladimir      | mircov693              |         |
+| Alex | alexherg | |
+| Eike | | |
 
 ## Challenge  
-*Which challenge have you decided to compete for?*
+SDV Lab
 
 ## Core Idea  
-*What is your rough solution idea?*
-
-*Sketch something that helps understand e.g. mermaid chart*
+Find out if implementing an ACC with lane assist as easily as we hope it should be and build from there. If it's not, try to get as far as possible and maybe provide some feedback on what the roadblocks were.
 
 ---
 
 # 2. How Do You Work
 
-## Development Process  
-*Brief overview of your development process.*
+## Development Process
 
 ### Planning & Tracking  
-*How do you plan and track progress?*
+We'll figure that out once we have a clearer understanding of what we want to do
 
 ### Quality Assurance  
-*How do you ensure quality (e.g., testing, documentation, code reviews)?*
+Manual testing only, unless we come across some very low-hanging fruit
 
 ## Communication  
-*How does your team communicate?*
+By talking
 
 ## Decision Making  
-*How are decisions made in your team?*
+By consent
