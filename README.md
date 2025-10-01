@@ -6,7 +6,7 @@ Walmops (it's a long story)
 
 # 1. Team Introduction
 
-In Walmops, we came to the [Eclipse SDV Hackathon](https://www.eclipse-foundation.events/event/EclipseSDVHackathon/summary) with an idea: solve the time lost in traffic jams cased by the uncoordinated acceleration and deceleration of vehicles.
+In Walmops, we came to the [Eclipse SDV Hackathon](https://www.eclipse-foundation.events/event/SDV-Hackathon-Chapter3/summary) with an idea: solve the time lost in traffic jams cased by the uncoordinated acceleration and deceleration of vehicles.
 
 This rapresents an actual future proof application, when every OEM will be SDV based, these orchestration will be applicable and efficient.
 
