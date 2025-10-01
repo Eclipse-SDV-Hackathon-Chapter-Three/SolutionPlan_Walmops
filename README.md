@@ -3,7 +3,7 @@
 # 1. Your Team at a Glance
 
 ## Team Name / Tagline  
-Walmpos (it's a long story)
+Walmops (it's a long story)
 
 ## Team Members  
 | Name | GitHub Handle | Role(s) |
